@@ -50,3 +50,8 @@ Dentro da pasta do exercício:
 ```bash
 javac NomeDoArquivo.java
 java NomeDoArquivo
+
+```
+## 📝 Licença
+
+Este projeto é de código aberto para fins educacionais.
