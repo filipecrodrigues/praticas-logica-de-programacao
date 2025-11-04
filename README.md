@@ -8,28 +8,28 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 
 ##  Exercícios
 
-| Nº | Nome do Exercício    | Pasta                                 |
-|---:|----------------------|---------------------------------------|
-| 01 | Média de Notas       | `exercicio01-media-notas`             |
-| 02 | Conversor de Medidas | `exercicio02-conversao-m-para-cm`     |
-| 03 | Par ou Impar         | `exercicio03-par-ou-impar `           |
-| 04 | Maior Número         | `exercicio04-maior-numero`            |
-| 05 | Media Aprovação      | `exercicio05-media-aprovacao-aluno`   |
-| 06 | Ano Bissexto         | `exercicio06-calculo-ano-bissexto `   |
-| 07 |                      | ` `                                   |
-| 08 |                      | ` `                                   |
-| 09 |                      | ` `                                   |
-| 10 |                      | ` `                                   |
-| 11 |                      | ` `                                   |
-| 12 |                      | ` `                                   |
-| 13 |                      | ` `                                   |
-| 14 |                      | ` `                                   |
-| 15 |                      | ` `                                   |
-| 16 |                      | ` `                                   |
-| 17 |                      | ` `                                   |
-| 18 |                      | ` `                                   |
-| 19 |                      | ` `                                   |
-| 20 |                      | ` `                                   |
+| Nº | Nome do Exercício    | Pasta                                    |
+|---:|----------------------|------------------------------------------|
+| 01 | Média de Notas       | `exercicio01-media-notas`                |
+| 02 | Conversor de Medidas | `exercicio02-conversao-m-para-cm`        |
+| 03 | Par ou Impar         | `exercicio03-par-ou-impar `              |
+| 04 | Maior Número         | `exercicio04-maior-numero`               |
+| 05 | Media Aprovação      | `exercicio05-media-aprovacao-aluno`      |
+| 06 | Ano Bissexto         | `exercicio06-calculo-ano-bissexto `      |
+| 07 | Laço for             | `exercicio06-impirimir-numeros-com-for ` |
+| 08 |                      | ` `                                      |
+| 09 |                      | ` `                                      |
+| 10 |                      | ` `                                      |
+| 11 |                      | ` `                                      |
+| 12 |                      | ` `                                      |
+| 13 |                      | ` `                                      |
+| 14 |                      | ` `                                      |
+| 15 |                      | ` `                                      |
+| 16 |                      | ` `                                      |
+| 17 |                      | ` `                                      |
+| 18 |                      | ` `                                      |
+| 19 |                      | ` `                                      |
+| 20 |                      | ` `                                      |
 
 
 
