@@ -17,19 +17,8 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 05 | Media Aprovação      | `exercicio05-media-aprovacao-aluno`      |
 | 06 | Ano Bissexto         | `exercicio06-calculo-ano-bissexto `      |
 | 07 | Laço for             | `exercicio06-impirimir-numeros-com-for ` |
-| 08 |                      | ` `                                      |
-| 09 |                      | ` `                                      |
-| 10 |                      | ` `                                      |
-| 11 |                      | ` `                                      |
-| 12 |                      | ` `                                      |
-| 13 |                      | ` `                                      |
-| 14 |                      | ` `                                      |
-| 15 |                      | ` `                                      |
-| 16 |                      | ` `                                      |
-| 17 |                      | ` `                                      |
-| 18 |                      | ` `                                      |
-| 19 |                      | ` `                                      |
-| 20 |                      | ` `                                      |
+| 08 | Soma Numeros for     | `exercicio08-soma-numeros-for `          |
+
 
 
 
