@@ -18,6 +18,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 06 | Ano Bissexto         | `exercicio06-calculo-ano-bissexto `      |
 | 07 | Laço for             | `exercicio06-impirimir-numeros-com-for ` |
 | 08 | Soma Numeros for     | `exercicio08-soma-numeros-for `          |
+| 09 | Converte metros      | `exercicio09-metros-centimetros `        |
 
 
 
