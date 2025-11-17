@@ -12,7 +12,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 |---:|-------------------|--------------------------|
 | 01 | Par e Impar       | `pratica01-par-e-impar`  |
 | 02 | Maior Número      | `pratica02-maior-numero` |
-| 03 |                   |                          |
+| 03 | Maior de Idade    | `pratica03-maior-idade`  |
 | 04 |                   |                          |
 | 05 |                   |                          |
 | 06 |                   |                          |
