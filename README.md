@@ -18,6 +18,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 06 | Sequencia laco for | `pratica06-imprime-sequencia-laco-for` |
 | 07 | Soma Números       | `pratica07-soma-numeros`               |
 | 08 | Tabuada            | `pratica08-tabuada-multiplicacao `     |
+| 09 | Contador           | `pratica09-imprime-numeros-while `     |
 
 
 
