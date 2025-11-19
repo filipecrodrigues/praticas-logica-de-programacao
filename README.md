@@ -16,7 +16,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 04 | Classifica Nota    | `pratica04-classificacao-notas`        |
 | 05 | Ano Bissexto       | `pratica05-ano-bissexto`               |
 | 06 | Sequencia laco for | `pratica06-imprime-sequencia-laco-for` |
-
+| 07 |                    |                                        |
 
 
 
