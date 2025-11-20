@@ -19,7 +19,8 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 07 | Soma Números       | `pratica07-soma-numeros`               |
 | 08 | Tabuada            | `pratica08-tabuada-multiplicacao `     |
 | 09 | Contador           | `pratica09-imprime-numeros-while `     |
-| 09 | Fatorial           | `pratica10-fatorial`                   |
+| 10 | Fatorial           | `pratica10-fatorial`                   |
+| 11 | Media Notas        | `pratica11-media-notas-vetor`          |
 
 
 ---
