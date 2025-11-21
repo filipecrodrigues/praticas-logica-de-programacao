@@ -8,19 +8,20 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 
 ##  Exercícios
 
-| Nº | Nome do Exercício  | Pasta                                  |
-|---:|--------------------|----------------------------------------|
-| 01 | Par e Impar        | `pratica01-par-e-impar`                |
-| 02 | Maior Número       | `pratica02-maior-numero`               |
-| 03 | Maior de Idade     | `pratica03-maior-idade`                |
-| 04 | Classifica Nota    | `pratica04-classificacao-notas`        |
-| 05 | Ano Bissexto       | `pratica05-ano-bissexto`               |
-| 06 | Sequencia laco for | `pratica06-imprime-sequencia-laco-for` |
-| 07 | Soma Números       | `pratica07-soma-numeros`               |
-| 08 | Tabuada            | `pratica08-tabuada-multiplicacao `     |
-| 09 | Contador           | `pratica09-imprime-numeros-while `     |
-| 10 | Fatorial           | `pratica10-fatorial`                   |
-| 11 | Media Notas        | `pratica11-media-notas-vetor`          |
+| Nº | Nome do Exercício             | Pasta                                  |
+|---:|-------------------------------|----------------------------------------|
+| 01 | Par e Impar                   | `pratica01-par-e-impar`                |
+| 02 | Maior Número                  | `pratica02-maior-numero`               |
+| 03 | Maior de Idade                | `pratica03-maior-idade`                |
+| 04 | Classifica Nota               | `pratica04-classificacao-notas`        |
+| 05 | Ano Bissexto                  | `pratica05-ano-bissexto`               |
+| 06 | Sequencia laco for            | `pratica06-imprime-sequencia-laco-for` |
+| 07 | Soma Números                  | `pratica07-soma-numeros`               |
+| 08 | Tabuada                       | `pratica08-tabuada-multiplicacao `     |
+| 09 | Contador                      | `pratica09-imprime-numeros-while `     |
+| 10 | Fatorial                      | `pratica10-fatorial`                   |
+| 11 | Media Notas                   | `pratica11-media-notas-vetor`          |
+| 12 | Maior e Menor Numeros Vetores | `pratica12-maior-menor-vetores`        |
 
 
 ---
