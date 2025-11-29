@@ -24,6 +24,8 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 12 | Maior e Menor Numeros Vetores | `pratica12-maior-menor-vetores`         |
 | 13 | Calculo Area de Circulo       | `pratica13-metodo-calculo-area-circulo` |
 | 14 | Vetor Inverso                 | `pratica14-vetor-inverso`               |
+| 15 | Dobro Area Quadrado           | `pratica15-calculo-dobro-area-quadrado` |
+| 16 | Calculo Salário               | `pratica16-calculo-salario`             |
 
 
 ---
