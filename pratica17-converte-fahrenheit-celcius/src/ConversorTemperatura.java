@@ -11,7 +11,7 @@ public class ConversorTemperatura {
         double fahrenheit = Double.parseDouble(entrada);
         double celcius = 5.0/9 *(fahrenheit-32);
 
-        System.out.printf("Temperatura em Celcius: %.2f%n",celcius);
+        System.out.printf("Temperatura em Celcius: %.1f%n",celcius);
 
         scan.close();
     }
