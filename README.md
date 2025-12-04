@@ -29,6 +29,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 17 | Conversor de Temperatura      | `pratica17-converte-fahrenheit-celcius` |
 | 18 | Conversor de Temperatura      | `pratica18-converte-celcius-fahrenheit` |
 | 19 | Calculo Produtos              | `pratica19-calculo-produto`             |
+| 20 | Calculo Peso Ideal            | `pratica20-calculo-peso-ideal`          |
 
 
 ---
