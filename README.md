@@ -27,7 +27,8 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 15 | Dobro Area Quadrado           | `pratica15-calculo-dobro-area-quadrado` |
 | 16 | Calculo Salário               | `pratica16-calculo-salario`             |
 | 17 | Conversor de Temperatura      | `pratica17-converte-fahrenheit-celcius` |
-| 18 | Conversor de Temperatura      | `pratica17-converte-celcius-fahrenheit` |
+| 18 | Conversor de Temperatura      | `pratica18-converte-celcius-fahrenheit` |
+| 19 | Calculo Produtos              | `pratica19-calculo-produto`             |
 
 
 ---
