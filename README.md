@@ -30,6 +30,7 @@ Os exercícios são organizados em pastas individuais, cada uma contendo seu pr�
 | 18 | Conversor de Temperatura      | `pratica18-converte-celcius-fahrenheit` |
 | 19 | Calculo Produtos              | `pratica19-calculo-produto`             |
 | 20 | Calculo Peso Ideal            | `pratica20-calculo-peso-ideal`          |
+| 21 | Calculo Taxa Pesca            | `pratica21-taxa-de-pesca`               |
 
 
 ---
